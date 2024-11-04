@@ -1,0 +1,2 @@
+air_time,gmrt_in_air,gmrt_on_paper,max_x_extension,max_y_extension,mean_acc_in_air,mean_acc_on_paper,mean_gmrt,mean_jerk_in_air,mean_jerk_on_paper,mean_speed_in_air,mean_speed_on_paper,num_of_pendown,paper_time,pressure_mean,pressure_var,total_time
+145,24.957505160731333,16.912568031499703,13800,6672,0.018135055866201732,0.48929026448331997,20.935036596115516,0.0027281314108718504,0.4626813811264592,8.899462373137899,17.04083311330242,5,450,12671.240336134453,65100181.7350706,4427
